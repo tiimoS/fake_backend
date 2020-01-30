@@ -5,5 +5,5 @@
   "factCardName": "Dummy fact Card Name", 
   "annotationContent": "This is a test annotation", 
   "annotationType": "Highlight", 
-  "documentReference": "{"title": "Testtitle", "authors": "test authors", "journal": testjournal"}"
+  "documentReference": "testcitation",
 }
